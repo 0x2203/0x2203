@@ -20,7 +20,7 @@
   <h4>released projects</h4>
   <p>there will be something here later</p>
 
-  <h4>community works</h4>
+  <!--<h4>community works</h4>
   <table>
     <tbody>
       <td align="center">
@@ -33,7 +33,7 @@
         <sub><code>Sr. Moderator</code></sub>
       </td>
     </tbody>
-  </table>
+  </table>-->
 
   <h2></h2>
   <img src="https://img.shields.io/static/v1?message=@spir.e&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Discord" />
